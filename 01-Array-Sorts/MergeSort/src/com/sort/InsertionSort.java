@@ -16,9 +16,7 @@ public class InsertionSort<T> {
                     Util.swap(arr,j,j-1);
             }
         }
-
     }
-
 }
 
 
